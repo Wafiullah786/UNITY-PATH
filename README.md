@@ -30,3 +30,9 @@ Client Side (Mobile Side)
 CLIENT SIDE SCREENSHOT
 
 <img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" /> <img src = "6.png" width ="250" /> <img src = "7.png" width ="250" /> <img src = "8.png" width ="250" /> <img src = "10.png" width ="250" /> <img src = "11.png" width ="250" /> <img src = "12.png" width ="250" /> 
+
+INSTALLATION GUIDE
+
+The Application is under-developed thats why its not uploaded on the Application stores. APK link is attached. The application can be installed by simply click on APK and follow the steps.
+
+APK Link: https://drive.google.com/file/d/1E2QB5cvChqSwOjk96u6tmvF-RiK4lvT2/view?usp=sharing
