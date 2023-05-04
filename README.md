@@ -26,6 +26,17 @@ Client Side (Mobile Side)
 3. Invest In Plots
 4. View All Bookings
 5. Pay Via App
+6. Indoor Navigation
+
+TECNICALITIES/TOOLS USED
+1. Flutter
+2. Oracle Database
+3. Augmented Reality
+4. Mapbox Integration
+5. Local Authentication
+6. OTP Platform Integrations
+7. REST APIs
+8. Laravel(php) Backend
 
 CLIENT SIDE SCREENSHOT
 
