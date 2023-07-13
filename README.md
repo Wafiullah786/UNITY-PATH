@@ -47,3 +47,7 @@ INSTALLATION GUIDE
 The Application is under-developed thats why its not uploaded on the Application stores. APK link is attached. The application can be installed by simply click on APK and follow the steps.
 
 APK Link: https://drive.google.com/file/d/1E2QB5cvChqSwOjk96u6tmvF-RiK4lvT2/view?usp=sharing
+
+
+                                                              THANKS
+
